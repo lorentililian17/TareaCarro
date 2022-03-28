@@ -1,0 +1,15 @@
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\bin\Debug\net6.0\ProyectoCarrito.exe
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\bin\Debug\net6.0\ProyectoCarrito.deps.json
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\bin\Debug\net6.0\ProyectoCarrito.runtimeconfig.json
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\bin\Debug\net6.0\ProyectoCarrito.dll
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\bin\Debug\net6.0\ref\ProyectoCarrito.dll
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\bin\Debug\net6.0\ProyectoCarrito.pdb
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\obj\Debug\net6.0\ProyectoCarrito.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\obj\Debug\net6.0\ProyectoCarrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\obj\Debug\net6.0\ProyectoCarrito.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\obj\Debug\net6.0\ProyectoCarrito.AssemblyInfo.cs
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\obj\Debug\net6.0\ProyectoCarrito.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\obj\Debug\net6.0\ProyectoCarrito.dll
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\obj\Debug\net6.0\ref\ProyectoCarrito.dll
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\obj\Debug\net6.0\ProyectoCarrito.pdb
+C:\Users\loren\source\repos\ProyectoCarrito\ProyectoCarrito\obj\Debug\net6.0\ProyectoCarrito.genruntimeconfig.cache
